@@ -1,0 +1,11 @@
+package com.helper;
+
+import org.hibernate.SessionFactory;
+
+public class HibernateHelper 
+{
+	public SessionFactory getFactory()
+	{
+		
+	}
+}

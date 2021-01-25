@@ -1,0 +1,9 @@
+package com.helper;
+
+public class HibernateHelper 
+{
+	public getFactory()
+	{
+		
+	}
+}

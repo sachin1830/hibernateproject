@@ -1,0 +1,14 @@
+package com.helper;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class HibernateHelper 
+{
+	private static SessionFactory factory;
+	public static SessionFactory getFactory()
+	{
+		factory=new Configuration().configure().buildSessionFactory();
+		return factory;
+	}
+}

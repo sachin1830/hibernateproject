@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+E:\HibernateTodoProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4012981263.index
+\com.todolist\src\main\resources
